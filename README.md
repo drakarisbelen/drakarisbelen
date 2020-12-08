@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently learning Javascript 👩‍💻
+I’m currently learning Javascript, Html and Css 👩‍💻
 
 
 
