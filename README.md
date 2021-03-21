@@ -3,7 +3,7 @@ I'm Kari from Bs.As. I'm working as funcional analyst and informix developer.
 
 This are my first steps as web developer and I'm enjoying it and loving it💕 
 
-##🛠️ What tools I use?
+🛠️ What tools I use?
 ✔️ Javascript 
 ✔️ Html and Css 
 ✔️ Bootstrap 
