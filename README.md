@@ -4,13 +4,13 @@ I'm Kari from Bs.As. I'm working as funcional analyst and informix developer.
 This are my first steps as web developer and I'm enjoying it and loving it💕 
 
 🛠️ ##What tools I use?
-Javascript 
-Html and Css  ![css](https://user-images.githubusercontent.com/66576813/111896731-5670e280-89fa-11eb-8a59-6241bf5c000d.png)
-bootstrap 
-Node Js 
-Express 
-Sequelize
-Heroku.
+✔️ Javascript 
+✔️ Html and Css 
+✔️ Bootstrap 
+✔️ Node Js 
+✔️ Express 
+✔️ Sequelize
+✔️ Heroku
 
 
 🎧 Music for every moment, specially Rock.
