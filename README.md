@@ -11,6 +11,7 @@ This are my first steps as web developer and I'm enjoying it and loving it💕
 ✔️ Express 
 ✔️ Sequelize
 ✔️ Heroku
+✔️ React
 
 
 🎧 Music for every moment, specially Rock.
