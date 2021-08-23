@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kari</h1>
 <h3 align="center">This are my first steps as web developer and I'm enjoying it and loving it💕</h3>
 
-- 🔭 I’m currently working on **VibraGaming**
+- 🔭 I’m currently working on **GreenMonks**
 
 - 🌱 I’m currently learning **React, TypeScript, PixiJs**
 
