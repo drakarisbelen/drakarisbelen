@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kari</h1>
-<h3 align="center">This are my first steps as web developer and I'm enjoying it and loving it💕</h3>
+
 <img src= "https://github.com/drakarisbelen/drakarisbelen/blob/main/.github/workflows/octocat-1664068942784.png" align="left" width="250" height="250" />
 
 - 🔭 I’m currently working on **GreenMonks** as a game developer with TS, NodeJs and pixi Js
