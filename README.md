@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kari</h1>
 <h3 align="center">This are my first steps as web developer and I'm enjoying it and loving it💕</h3>
+<img src= "https://github.com/drakarisbelen/drakarisbelen/blob/main/.github/workflows/octocat-1664068942784.png" align="left" width="250" height="250" />
 
 - 🔭 I’m currently working on **GreenMonks**
 
@@ -8,7 +9,8 @@
 - 📌 In a world where you can be anything be kind.
 
 <h3 align="center">Connect with me:</h3>
-<img src= "https://github.com/drakarisbelen/drakarisbelen/blob/main/.github/workflows/octocat-1664068942784.png" align="left" width="250" height="250" />
+
+
 <p align="center">
   <a
     href="https://www.linkedin.com/in/karina-belen-escobar/"
