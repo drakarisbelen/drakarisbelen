@@ -2,11 +2,14 @@
 <h3 align="center">This are my first steps as web developer and I'm enjoying it and loving it💕</h3>
 <img src= "https://github.com/drakarisbelen/drakarisbelen/blob/main/.github/workflows/octocat-1664068942784.png" align="left" width="250" height="250" />
 
-- 🔭 I’m currently working on **GreenMonks**
+- 🔭 I’m currently working on **GreenMonks** as a game developer with TS, NodeJs and pixi Js
 
-- 🌱 I’m currently learning **React, TypeScript, PixiJs**
+- 🌱 I’m in constant learning. Nowadays I am diving into React 🤿
 
-- 📌 In a world where you can be anything be kind.
+- 📌 My favourite phrase: In a world where you can be anything be kind. 
+
+- 🤓 As a hobby I try to improve my English watching series, listening podcasts and taking English classes
+
 
 <h3 align="center">Connect with me:</h3>
 
