@@ -8,9 +8,7 @@
 - 📌 In a world where you can be anything be kind.
 
 <h3 align="center">Connect with me:</h3>
-<div style="max-width: 40%">
-  <img src= "https://github.com/drakarisbelen/drakarisbelen/blob/main/.github/workflows/octocat-1664068942784.png" style="max-width: 40%" />
- </div>
+<img src= "https://github.com/drakarisbelen/drakarisbelen/blob/main/.github/workflows/octocat-1664068942784.png" align="left" width="150" height="150" />
 <p align="center">
   <a
     href="https://www.linkedin.com/in/karina-belen-escobar/"
