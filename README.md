@@ -2,9 +2,7 @@
 
 <img src= "https://github.com/drakarisbelen/drakarisbelen/blob/main/.github/workflows/octocat-1664068942784.png" align="left" width="250" height="250" />
 
-- 🔭 I’m currently working on **GreenMonks** as a game developer with TS, NodeJs and pixi Js
-
-- 🌱 I’m in constant learning. Nowadays I am diving into React 🤿
+- 🔭 I’m currently working on **Spincraft** as a game developer with TS, NodeJs and pixi Js
 
 - 📌 My favourite phrase: In a world where you can be anything be kind. 
 
